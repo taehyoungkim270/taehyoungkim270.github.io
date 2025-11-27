@@ -23,7 +23,7 @@ repository               : "taehyoungkim270/taehyoungkim270.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Taehyoung Kim"
   # pronouns         : # example: "she/her"  
   bio              : "Undergraduate student majoring Statistics and Mathematics at Seoul National University"
