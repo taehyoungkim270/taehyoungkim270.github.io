@@ -1,7 +1,7 @@
 ---
 title: "FDR Control via Neural Networks under Covariate-Dependent Symmetric Nulls"
 collection: publications
-category: Preprints
+category: preprints
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'A paper proposing a novel approach '
 date: 2025-11-19
